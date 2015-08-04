@@ -25,3 +25,6 @@
 [submodule "JasmineOh_BC15_code"]
 	path = JasmineOh_BC15_code
 	url = https://github.com/jasohdesign/JasmineOh_BC15_code
+[submodule "GregBerg_BC15_code"]
+	path = GregBerg_BC15_code
+	url = https://github.com/GregBergz/GregBerg_BC15_code
