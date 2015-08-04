@@ -19,3 +19,6 @@
 [submodule "JourdanBousfield_BC15_code"]
 	path = JourdanBousfield_BC15_code
 	url = https://github.com/JourdanBousfield/JourdanBousfield_BC15_code
+[submodule "JonathanBeilin_BC15_code"]
+	path = JonathanBeilin_BC15_code
+	url = https://github.com/dongle/JonathanBeilin_BC15_code
