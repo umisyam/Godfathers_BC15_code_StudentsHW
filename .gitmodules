@@ -22,3 +22,6 @@
 [submodule "JonathanBeilin_BC15_code"]
 	path = JonathanBeilin_BC15_code
 	url = https://github.com/dongle/JonathanBeilin_BC15_code
+[submodule "JasmineOh_BC15_code"]
+	path = JasmineOh_BC15_code
+	url = https://github.com/jasohdesign/JasmineOh_BC15_code
