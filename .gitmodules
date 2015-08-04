@@ -1,3 +1,6 @@
 [submodule "HadeelAlharthi_BC15_code"]
 	path = HadeelAlharthi_BC15_code
 	url = https://github.com/Hadeel90/HadeelAlharthi_BC15_code
+[submodule "AndrewGenualdi_BC15_code"]
+	path = AndrewGenualdi_BC15_code
+	url = https://github.com/loldi/AndrewGenualdi_BC15_code
