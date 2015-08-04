@@ -7,3 +7,6 @@
 [submodule "leylanovini_BC15_code"]
 	path = leylanovini_BC15_code
 	url = https://github.com/LeylaNovini/leylanovini_BC15_code
+[submodule "TaylorRodriguez_BC15_Code"]
+	path = TaylorRodriguez_BC15_Code
+	url = https://github.com/rodrt215/TaylorRodriguez_BC15_Code
