@@ -1,6 +1,5 @@
 # Bootcamp CODE 2015 / Section B: Godfathers / Student's Work
-#####This is the collective repo for Godfather's student work for Bootcamp CODE 2015, Parsons School of Design.
-#####The original repo with in-class examples lives [here](https://github.com/umisyam/Godfathers_BC15_code)
+#####This is the collective repo for Godfather's student work for Bootcamp CODE 2015, Parsons School of Design. The original repo with in-class examples is [here](https://github.com/umisyam/Godfathers_BC15_code).
 
 
 
