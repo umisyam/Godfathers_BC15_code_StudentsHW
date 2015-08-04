@@ -13,3 +13,6 @@
 [submodule "YanHong_BC15_code"]
 	path = YanHong_BC15_code
 	url = https://github.com/hongy935/YanHong_BC15_code
+[submodule "CatherineSchmitz_BC15_code"]
+	path = CatherineSchmitz_BC15_code
+	url = https://github.com/CatSchmitz/CatherineSchmitz_BC15_code/
