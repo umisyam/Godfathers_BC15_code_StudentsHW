@@ -10,3 +10,6 @@
 [submodule "TaylorRodriguez_BC15_Code"]
 	path = TaylorRodriguez_BC15_Code
 	url = https://github.com/rodrt215/TaylorRodriguez_BC15_Code
+[submodule "YanHong_BC15_code"]
+	path = YanHong_BC15_code
+	url = https://github.com/hongy935/YanHong_BC15_code
